@@ -49,7 +49,7 @@ This is the list with tools you need for working efficient:
 - [ ] Copy the study-template directory on your disk and put in all the downloaded materials and the screenshots in there.
 - [ ] Add the syllabus or the images into ChatGPT and create the course plan by the prompt:
 ```
-Create a course structure out of the added material, that I can use for me structure to study. Print your answer in English language.
+Create a course structure out of the added material, that I can use for me structure to study.
 ```
 - [ ] Add the topics to the topics file.
 - [ ] Pass all the course sources into NotebookLM (PDFs, videos, etc.)
@@ -58,11 +58,11 @@ Create a course structure out of the added material, that I can use for me struc
 ```
 Create a learning schedule by the course plan. I've added all the materials to Google NotebookLM to create podcasts about it. Create the prompts I can pass to NotebookLM for creating the podcasts based on your schedule.
 ```
-- [ ] In NotebookLM select all sources and create notes out of the ChatGPT prompts.
+- [ ] In NotebookLM select all sources and create notes out of the ChatGPT prompts and save them as source.
 - [ ] Refine the topics file by the result of ChatGPT.
-- [ ] Unselect the sources and select only the note, out of which you would like to create the podcast by the prompt:
+- [ ] Unselect the sources and select only the note and the main material, out of which you would like to create the podcast by the prompt:
 ```
-Focus only on the check marked sources. You be a very professional on this topic and you are very amazing in teaching people, that are studying this topic to pass the exam and get the certification. You are on point and don't use much fill words or small talk. Your stuff is easy to understand for autistic too and can easily follow you.
+Focus only on the check marked sources. You be a very professional on this topic and you are very amazing in teaching people, that are studying this topic to pass the exam and get the certification. You are on point and don't use much fill words or small talk. Your stuff is easy to understand and the pupils can easily follow you.
 ```
 - [ ] Download and save them on disk, add the tracks into your music app.
 - [ ] Open Ahmni app and copy the StudyTemplate canvas and rename it with the name.
@@ -79,7 +79,7 @@ Create a PDF file with the questions and answers.
 - [ ] For every main level topic in the topics file, create a test for every time a new topics begins with Claude AI (add your course material as context) by the prompt:
 ```
 This is my course material.
-Assume I've finished the course and create 20 questions for me to answer on the course topic, TOPIC NAME.
+Assume I've finished the topic and create 20 questions for me to answer on the course topic "TOPIC NAME".
 Start from general and get more specific.
 Create a PDF file with the questions and answers.
 ```
