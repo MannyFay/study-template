@@ -1,7 +1,7 @@
 #study
-#glossar
+#glossary
 
-# Course Name - Glossar
+# Course Name - Glossary
 
 ## A
 ---

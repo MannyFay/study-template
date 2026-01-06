@@ -9,7 +9,7 @@ This is the user manual how to set up a project for studying.
 ---
 - **topics**
 	- Here you write down the main topics of the syllabus index or the main sections of the course.
-- **glossar**
+- **glossary**
 	- This is for definitions you find while studying.
 - **formulas**
 	- This is for mathematical formulas, coding functionalities, and if/then flows.
